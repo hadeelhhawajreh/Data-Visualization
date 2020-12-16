@@ -1,7 +1,7 @@
 # Data-Visualization
 
 
-#### +Feature Tasks and Requirements
+#### + Feature Tasks and Requirements
 + Select 2 Kaggle data sets that are suitable for the story you want to tell.
 + Note make sure the data set has csv file/s to download.
 + Optionally use dataset built into Seaborn
@@ -13,4 +13,5 @@
 + In other words, imagine you are presenting it on the job.
 
 using 2 :
-1. 
+1. [gammas](https://github.com/mwaskom/seaborn-data/blob/master/gammas.csv)
+2. [attention](https://github.com/mwaskom/seaborn-data/blob/master/attention.csv)
